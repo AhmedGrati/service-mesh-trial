@@ -1,0 +1,1 @@
+while true; do sleep 1; curl http://servicemesh.demo/home; echo -e '\n\n\n\n'$(date);done
